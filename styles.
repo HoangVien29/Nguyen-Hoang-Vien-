@@ -1,0 +1,48 @@
+body{
+background-image: url('image/univers.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-color: LavenderBlush;
+
+}
+
+
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+  background-color: white;
+
+}
+h2 {
+background-image: url('image/mattroi.png');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+padding: 30px;
+
+}
+p {
+  color: red;
+  font-family: courier;
+
+  font-size: 160%;
+  background-color: lightpink;
+
+}
+table, th, td {
+  border: 1px solid black;
+  font-size: 100%;
+}
+th, td {
+  background-color: white;
+  border: 1px solid black
+}
+table{
+ border:5px double black;
+ border-collapse: collapse;
+ font-size: 30px;
+}
+th {
+ background-color: lightcyan
