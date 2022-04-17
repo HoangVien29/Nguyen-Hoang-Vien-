@@ -1,0 +1,120 @@
+/* Place your CSS styles in this file 
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+*/
+.you {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+#HV {
+  background-color: pink;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+body {
+  background-image: url('img/1.jpg');
+  background-repeat: no-repeat;	
+  background-attachment: fixed;
+  background-size:  100% 100%;
+  background-color:#FFC0B9;
+}
+h1 {
+  color:#FFFFC5;
+ 
+}
+h2{
+  color: #FFFFC5;
+ background-image: url('img/2.jpg');
+ background-repeat: no-repeat;	
+  background-attachment: fixed;
+  background-size:  100% 100%;
+ badding:30px;
+}
+p {
+  color: green;
+  
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+img{
+  width:500;
+  heigth:379;
+}
+p {
+  color: green;
+  font-family:Times New Roman;
+  font-size:160%;
+}
+div{
+  color:yellow;
+  font-family:Times New Roman;
+  font-size:30px;
+}
+span{
+  color:blue;
+  font-family:Times New Roman;
+  font-size:160%;
+}
+table,td,th{
+font-size: 40px;
+}
+table, td {
+  border: 1px double black;
+table,td,th{
+font-size: 40px;
+}
+table, td {
+  border: 6px double black;
+  border-collapse: collapse;
+  background-color: #96D4D4;
+  border-radius: 10px;
+}
+/*th,td{
+background-color: Khaki;
+border: 2px solid black;
+}
+  background-color: #96D4D4;
+  border-radius: 10px;
+}
+th,td{
+background-color: Khaki;
+border: 2px solid black;
+}
+td:nth-child(even) {
+  background-color: #D6EEEE;
+}*/
+th,td{
+padding-top: 12px;
+padding-bottom: 20px;
+padding-left: 12px;
+padding-right: 12px;
+}
