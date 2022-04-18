@@ -1,7 +1,4 @@
  
-    tr:nth-child(even) {
-  background-color: violet;
-}
 th, td {
   border: 1px solid black;
   border-groove: 15px;
